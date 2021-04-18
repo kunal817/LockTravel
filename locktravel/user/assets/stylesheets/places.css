@@ -1,0 +1,124 @@
+.places-section{
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+    padding-bottom: 150px;
+}
+.site-title{
+    padding: 1.4em 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.site-title h1{
+    position: relative;
+    left: -25px;
+    font-size:50px;
+    padding: 0 0 35px 0;
+}
+.site-title p{
+    font-size: 30px;
+}
+
+.places-cards{
+    padding: 30px 0 30px 30px;
+}
+.card-title{
+    padding:10px 0 0 10px;
+}
+
+.subplaces-section{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: -50px;
+    width: 100%;
+    background-color: #fff;
+    padding: 0 0 25vh 0;
+}
+
+.subplaces-section .title{
+    Font-size: 40px;
+    padding: 20px 20px 20px 15px;
+}
+
+.subplaces-section .fa-map-marker{
+    font-size: 30px;
+    color:darkcyan;
+    padding: 10px 0 45px 30px;
+}
+.subplaces-section span{
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.subplaces-section .brief{
+    padding-top: 20px;
+    font-size: 20px;
+    
+}
+
+.subplaces-section .brief b{
+    font-weight: bold;
+    padding:0 0 0 10px;
+    font-size:20px;
+}
+
+.subplaces-section h2{
+    font-size:25px;
+    padding: 20px 0 10px 10px;
+}
+
+.subplaces-section a{
+    text-decoration:none;
+}
+.read-more{
+    padding-top: 20px;
+}
+.subplaces-section .read-more a{
+    font-size: 20px;
+}
+
+.box{
+    background-color:#e1eff3;
+    padding:10px;
+}
+
+.sub-title{
+    padding-top: 40px;
+    padding-bottom: 24px;
+    font-size:36px;
+}
+
+.details-section .subsection p{
+    width: 87%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5c5959;
+    font-size:19px;
+    line-height:27px;
+}
+
+.details-section h3{
+    font-size:34px;
+    padding: 20px 0 15px 10px;
+}
+
+.places-to-visit{
+    padding:20px;
+}
+
+.places-to-visit img{
+    width: 40vh-1px;
+    height:35vh;
+}
+
+.places-to-visit p{
+    font-size:17px;
+
+}
+
+.places-to-visit b{
+    font-weight: bold;
+}
+
+.places-to-visit a{
+    font-size: 19px;
+}

@@ -1,0 +1,108 @@
+
+.about-section {
+  position: relative;
+  width: 100%;
+  background-color: #ffffff;
+  height: 170vh;
+}
+.site-title  {
+  padding: 1.9em 0;
+  
+}
+.site-title h3{
+  font-size: 3.5em;
+  color: #14B9D5;
+  font-family: 'Marvel-Regular';
+  font-weight: 700;
+  padding: 0.3em;
+  padding-bottom: 40px;
+}
+
+.site-title h2{
+  font-size: 35px;
+  line-height:40px;
+  font-family: 'Marvel-Regular';
+}
+
+.site-title p {
+  font-size: 1.1em;
+  color: #000000;
+  line-height: 1.8em;
+  margin-top: 0.5em;
+}
+
+.profile-area {
+  padding: 80px 0;
+}
+
+.profile-area h1{
+  font-size:3.5em;
+  font-weight: 500;
+  color: darkcyan;
+  padding: 40px 0 0 25vh;
+  font-family: "Marvel-Regular";
+  position: relative;
+  top: 20px;
+}
+
+.card{
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+  overflow: hidden;
+  border-radius: 15px;
+}
+.img1 img{
+  height: 200px;
+  border-top-right-radius: 15px;
+  border-top-left-radius:15px;
+  width: 100%;
+}
+
+.img2 img{
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 7px solid #fff;
+  margin-top:-80px;
+}  
+
+.card:hover .img2 img{
+  border-color: darkcyan;
+  transition: 0.7s;
+}
+.main-text{
+  padding:30px 0;
+  text-align:center;
+}
+
+.main-text h2{
+
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0 0 20px;
+}
+
+.main-text p{
+  font-size: 16px;
+  padding:0 35px;
+}
+
+.socials{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.socials i{
+  font-size: 20px;
+  color: darkcyan;
+  padding: 0 10px;
+  transition: transform 0.5s ease;
+}
+
+.socials i:hover{
+  transform: scale(1.3);
+}

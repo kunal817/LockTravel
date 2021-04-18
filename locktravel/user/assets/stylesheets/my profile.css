@@ -1,0 +1,60 @@
+.profile-sec{
+    position: relative;
+    background-color: rgb(238, 239, 240);
+    display: flex;
+    padding-left: 40vh;
+    padding-top: 40px;
+    padding-bottom: 90px;
+    height:80vh;
+}
+.profile-subsec{
+    padding: 60px 0;
+}
+
+.title{
+    font-size:80px;
+    font-weight:600;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom:40px;
+    color:#26678d
+}
+.profile-sec h1{
+    position: relative;
+    left:80px;
+    font-size:200px;
+    color:#26678d
+}
+.left-sec{
+    position: relative;
+    top: -39vh;
+    left: 52vh;
+    padding: 20px 0 0 20px;
+    color: rgb(10, 6, 6);
+    font-size: 20px;
+    line-height:70px;
+    width:70vh;
+    height:45vh;
+    background-color:rgb(252, 255, 255);
+    border-radius: 20px;
+}
+
+.left-sec a{
+    text-decoration:none;
+    color: rgb(248, 245, 245);
+    text-align: center;
+    
+}
+
+.left-sec span{
+    padding-right: 20;
+}
+
+.btn{
+    font-size: 20px;
+    padding: 15px;
+}
+
+.right-sec{
+    float: right;
+}
